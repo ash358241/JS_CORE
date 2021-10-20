@@ -1,1 +1,0 @@
-## Just to rewind the core JavaScript and boost the fundamentals even more
